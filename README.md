@@ -1,25 +1,27 @@
 David Perdomo
 ## daeperdomocr@unal.edu.co
 Facilidad y disposición para aprender. Interés en el desarrollo de software. Diseño de interfaces.
-## Estudios
-### Universidad Nacional de Colombia
-### INGENIERÍA DE SISTEMAS Y COMPUTACIÓN
+# Estudios
+* Universidad Nacional de Colombia
+* INGENIERÍA DE SISTEMAS Y COMPUTACIÓN
 2015-2020(Noveno Semestre)
 # Habilidades
-### Java
-### Python
-### C/C++
-### Ruby
-### ReactJS
-### Node.js
-### Django
-### Javascript
-### HTML
-### CSS
-### Bootstrap
-### Material Design
-### SQL
-### MongoDB
+* Java
+* Python
+* C/C++
+* Ruby
+* ReactJS
+* Node.js
+* Django
+* Javascript
+* HTML
+* CSS
+* Bootstrap
+* Material Design
+* SQL
+* MongoDB
+
+# Proyectos
 ## Olympus
 Proyecto API con MongoDB y Django (mongoengine) como backend y ReactJS en el frontend.
 ## Picaditos
